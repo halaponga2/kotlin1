@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <dimen name="top_bar_text_size">20sp</dimen>
+    <dimen name="top_bar_text_horizontal_margin">24pd</dimen>
     <dimen name="app_horizontal_margin">10dp</dimen>
     <dimen name="notification_top_margin">16dp</dimen>
     <dimen name="notification_padding">16dp</dimen>
@@ -12,4 +13,5 @@
     <dimen name="notification_name_size">18sp</dimen>
     <dimen name="notification_time_size">14sp</dimen>
     <dimen name="notification_replays_size">12sp</dimen>
+
 </resources>
