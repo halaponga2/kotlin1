@@ -79,6 +79,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/name1"
+                    android:textSize="@dimen/notification_name_size"
                     android:textColor="@color/black"
                     />
 
@@ -150,6 +151,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="@string/name2"
+                android:textSize="@dimen/notification_name_size"
                 android:textColor="@color/black"
                 />
             <TextView
@@ -221,6 +223,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="@string/name3"
+                android:textSize="@dimen/notification_name_size"
                 android:textColor="@color/black" />
 
             <TextView
