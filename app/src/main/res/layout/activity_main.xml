@@ -192,7 +192,7 @@
         android:id="@+id/notification3"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="12dp"
+        android:layout_marginTop="@dimen/notification_top_margin"
         android:background="@color/light_grey"
         android:padding="@dimen/notification_padding"
 
